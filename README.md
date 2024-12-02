@@ -6,6 +6,9 @@ Welcome to the **CMMSPL** repository! This project is based on a research paper,
 
 In the world of data science, clustering plays a crucial role in organizing complex datasets. Traditional clustering methods struggle with large, multi-modal data, leading to scalability issues and inaccurate results. This approach, **Customized Multi-Modal Subspace Proxy Learning (CMMSPL)**, addresses these challenges by efficiently handling multiple types of data (e.g., images, text) and scaling seamlessly for real-world applications.
 
+<img width="547" alt="image" src="https://github.com/user-attachments/assets/1a4df7f1-ff26-4d1e-ab0f-910bb7f229ff">
+
+
 ## Key Features
 
 - **Multi-Modal Data Handling**: Integrates and processes various types of data such as images and text for more accurate clustering.
