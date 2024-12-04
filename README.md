@@ -58,12 +58,12 @@ The method was tested on datasets such as **MSCOCO** and **Flickr30k**, which in
 
 For a more visual explanation of the **CMMSPL** approach and its real-world applications, check out the following YouTube video:
 
-[**CMMSPL: Revolutionizing Clustering**](#insert-video-link-here)
+[**CMMSPL: Revolutionizing Clustering**](https://youtu.be/m8meZC6q5vc)
 
 ---
 ## Links
 - [Research Paper](https://arxiv.org/pdf/2411.03978)  
 - [Medium Article](https://medium.com/@syedanidakhader/revolutionizing-clustering-with-customized-multi-modal-subspace-proxy-learning-66a1512c1729)
 - [SlideShare Presentation](https://www.slideshare.net/slideshow/customized-multiple-clustering-via-multi-modal-subspace-proxy-learning-pptx-pdf/273786163)
-- [YouTube Video](#)
+- [YouTube Video](https://youtu.be/m8meZC6q5vc)
 
